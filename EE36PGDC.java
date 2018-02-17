@@ -1,4 +1,7 @@
-public class EE36 {
+import java.io.*;
+import java.util.*;
+
+public class EE36PGDC {
 
    public static void main(String[] args) {
    
