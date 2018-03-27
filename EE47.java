@@ -8,7 +8,7 @@
  	* Si la réponse est fausse, le user perd
  	* Le programme affiche  le score du user
  	*/
-package monPackage.two;
+
 
 import java.util.Scanner;
 

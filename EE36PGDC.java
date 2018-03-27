@@ -35,11 +35,12 @@ public class EE36PGDC {
        System.out.println("Among integers between 1 and 10000,");
        System.out.println("The maximum number of divisors was " + divmax);
        System.out.println("Numbers with that many divisors include:");
-       for ( i = 1; i <= 10000; N++ ) {
-           if (  divTab[i] == divmax ) {
-               System.out.println( "   " + i);
-           }
-       }
+ 
+	//for ( int i = 1; i <= 10000; N++ ) {
+        //  if (  divTab[i] == divmax ) {
+          //     System.out.println( "   " + i);
+          // }
+       //}
    
    } 
 }

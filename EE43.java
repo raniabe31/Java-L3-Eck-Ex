@@ -4,7 +4,7 @@
  * Elle nous donne l'information de combien de dès a-t-on eu besoin pour avoir ce total
  * 
  */
-package	myPackage.two;
+
 	public class EE43 {
 		/**
 		    * Simule des lancers de dès jusqu'à avoir le total de 2.

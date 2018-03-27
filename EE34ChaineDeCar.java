@@ -1,5 +1,5 @@
-import java.io.*
-import java.util.*
+import java.io.*;
+import java.util.*;
   
 public class EE34ChaineDeCar {
 
@@ -14,13 +14,15 @@ public class EE34ChaineDeCar {
 		
        Scanner sc = new Scanner(System.in);
      
-       String[] ligne= sc.nextLine();
+       //String[] line= sc.nextLine();
        
        System.out.println();
        charac = true;
        
-       for (int i = 0;  i < ligne.length();  i++ ) {
-          ch = line.charAt(i);
+     String line = null;
+	for (int i = 0;  i < line.length();  i++ ) {
+          String line1 = null;
+		ch = line1.charAt(i);
           if ( Character.isLetter(ch) ) {
              System.out.print(ch);
              charac = false;
